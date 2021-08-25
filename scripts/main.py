@@ -3,7 +3,6 @@ import glob
 import shutil
 import json
 from zipfile import ZipFile
-from unidecode import unidecode
 from svgpathtools import svg2paths2
 
 code_table = {
