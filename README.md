@@ -8,11 +8,6 @@ Simple Kana Recognizer is an app built in Flutter that allows you to recognize t
 </p>
 
 <p align="center">
-<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/jttuboi/simple_kana_recognizer?color=%2304D361">
-<img alt="GitHub license" src="https://img.shields.io/github/license/jttuboi/simple_kana_recognizer">
-</p>
-
-<p align="center">
  <a href="#about-the-project">About the project</a> •
  <a href="#technologies">Technologies</a> • 
  <a href="#license">License</a>
