@@ -44,13 +44,10 @@ To draw and recover the stroke points, it was based on the project of [jayndu](h
 
 # Technologies
 
-<img alt="Dart" src="https://img.shields.io/badge/Dart-2.13.4-03589b?style=for-the-badge&logo=dart">
-<br>
-<img alt="Flutter" src="https://img.shields.io/badge/Flutter-2.2.3-53c5f7?style=for-the-badge&logo=flutter">
-<br>
-<img alt="Python" src="https://img.shields.io/badge/Python-3.8.10-fadf5e?style=for-the-badge&logo=python">
-<br>
-<img alt="Python" src="https://img.shields.io/badge/svgpathtools-1.4.1-fadf5e?style=for-the-badge">
+<p><img alt="Dart" src="https://img.shields.io/badge/Dart-2.13.4-03589b?style=for-the-badge&logo=dart"></p>
+<p><img alt="Flutter" src="https://img.shields.io/badge/Flutter-2.2.3-53c5f7?style=for-the-badge&logo=flutter"></p>
+<p><img alt="Python" src="https://img.shields.io/badge/Python-3.8.10-fadf5e?style=for-the-badge&logo=python"></p>
+<p><img alt="Python" src="https://img.shields.io/badge/svgpathtools-1.4.1-fadf5e?style=for-the-badge"></p>
 
 # License
 
